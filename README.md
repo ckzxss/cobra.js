@@ -2,7 +2,7 @@
 (Discord.js) 
 
 # Versão
-(v13) Node.js v17.0.1.
+script so vai funcionar em bot (v13)
 
 # Módulos
 
