@@ -19,5 +19,3 @@ Este arquivo precisa ser inserido dentro da sua pasta commands.
 
 exemplo: n!cobra
 
-[PARA INICIAR O JOGO]
-
