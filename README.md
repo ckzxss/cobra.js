@@ -1,5 +1,8 @@
 # Cobra
-(Discord.js)
+(Discord.js) 
+
+# Versão
+(v13) Node.js v17.0.1.
 
 # Módulos
 
