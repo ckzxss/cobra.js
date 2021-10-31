@@ -14,5 +14,7 @@ Este arquivo precisa ser inserido dentro da sua pasta commands.
 
 (coloque seu prefixo antes de 'cobra')
 
+exemplo: n!cobra
+
 [PARA INICIAR O JOGO]
 
