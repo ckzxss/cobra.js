@@ -8,7 +8,7 @@
 
 # Arquivo
 
-Este arquivo precisa ser inserido dentro do seu arquivo de comandos.
+Este arquivo precisa ser inserido dentro da sua pasta commands.
 
 # Comando
 
